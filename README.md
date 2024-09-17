@@ -18,6 +18,10 @@ Navigate to the folder `assets/` on one window and the `public/` folder under yo
 
 Select all for the files in the folder `assets/` and move them to the `public/` folder by dragging and dropping.
 
+Delete the cloned repository folder (`portfolio-assets/`) manually.
+
+Return to your project folder in the command line (**Mac**: Terminal, **Windows**: Command Prompt/PowerShell).
+
 ## You're all done! 
 
 Go back to the project repository [here](https://github.com/gdscwm/react-portfolio).
